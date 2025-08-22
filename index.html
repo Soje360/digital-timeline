@@ -1,0 +1,39 @@
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link title="timeline-styles" rel="stylesheet" 
+              href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <script type="text/javascript" language="javascript" src="machine learning history.json"></script>
+    
+    <script type="text/javascript">
+        $.getJSON("machine learning history.json", function (data) {
+                var timeline_json = data;
+            window.timeline = new TL.Timeline('timeline-embed', timeline_json);
+            });
+    </script>
+
+    <style>
+        p,
+        .timeline,
+        .tl-slide-title,
+        .tl-slide-text,
+        .tl-headline-date,
+        .tl-headline,
+        .tl-slidenav-title,
+        .tl-slidenav-description
+        {
+            font-family: 'Poppins', sans-serif !important;
+        }
+
+    </style>
+
+</head>
+<body>      
+    <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+</body>
+</html>

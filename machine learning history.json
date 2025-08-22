@@ -1,0 +1,164 @@
+{
+  "title": {
+    "media": {
+      "url": "https://www.blumeglobal.com/media/wp-content/uploads/2018/11/shutterstock_344688470-scaled.jpg?rnd=133498791085430000",
+      "caption": "",
+      "credit": "<a href='https://www.blumeglobal.com/learning/machine-learning/'>photo source: blumeglobal</a>"
+    },
+
+    "text": {
+      "headline": "History of Machine Learning (1956-Present)",
+      "text": "The goal of this presentation is to showcase the history of Machine Learning, through the people that made notable contributions which made a breakthrough or important events that leads to make machine learning to be more recognized in the person's era."
+    }
+  },
+
+  "events": [
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/250px-Alan_Turing_Aged_16.jpg",
+        "caption": "",
+        "credit": "<a href='https://en.wikipedia.org/wiki/Alan_Turing'>photo source: Wikipedia</a>"
+      },
+
+      "start_date": {
+        "year": "1956"
+      },
+
+      "text": {
+        "headline": "Alan Turing",
+        "text": "<p>Alan Turing published a proposal that answers the question whether if machines can think. His idea of particularly the \"Turing Test\" was the most remarkable since it involves a machine and a human interaction to be guessed on whether certain person or object is what they are based on their interaction that they made."
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://inseit.eu/images/content/weizenbaum.jpg",
+        "caption": "",
+        "credit": "<a href='https://inseit.eu/weizenbaum-award/'>photo source: inseit.eu</a>"
+      },
+
+      "start_date": {
+        "year": "1966"
+      },
+
+      "text": {
+        "headline": "Joseph Weizenbaum",
+        "text": "<p>Joseph Weizenbaum developed an early artificial intelligence called ELIZA, which made conversations with a computer possible. In which it uses a socratic approach to make the user explore their feelings creating a psychological approach. "
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Lighthill_3.jpeg",
+        "caption": "",
+        "credit": "<a href='https://en.wikipedia.org/wiki/James_Lighthill'>photo source: Wikipedia</a>"
+      },
+
+      "start_date": {
+        "year": "1973"
+      },
+
+      "text": {
+        "headline": "James Lighthill ",
+        "text": "<p>James Lighthill conducted the survey called  \"Artificial Intelligence: A General Survey\" in 1973. This particular survey report was one factor of how the first AI winter started, which downgraded the funds and reasearches that would be contributed for machine learning.</p>"
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://ws.engr.illinois.edu/directory/viewphoto/mrebl/1200",
+        "caption": "",
+        "credit": " <a href='https://siebelschool.illinois.edu/about/people/all-faculty/mrebl'>photo source: ws.engr.illinois.edu</a>"
+      },
+
+      "start_date": {
+        "year": "1981"
+      },
+
+      "text": {
+        "headline": "Gerald DeJong",
+        "text": "Gerald Dejong created the concept of \"Explanation Based Leaning\" which removes unnecessary data. This contribution would then be made as a foundation for concepts of Machine Learning. "
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://www.hhmi.org/sites/default/files/Programs/EXROP/Terrence-Sejnowski-400x400.jpg",
+        "caption": "",
+        "credit": " <a href='https://www.hhmi.org/scientists/terrence-j-sejnowski'>photo source: hhmi.org</a>"
+      },
+
+      "start_date": {
+        "year": "1985"
+      },
+
+      "text": {
+        "headline": "Terrence Sejnowski",
+        "text": "Terrence Sejnowski created an artificial neural network called NET talk, which learns to pronounce words based on how a child would do it. This neural network could perform a language translation using text-to-speech. "
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://achievements.ai/wp-content/uploads/2021/01/td-gammon-program-developed-by-gerald-tesauro-1.jpg",
+        "caption": "",
+        "credit": "<a href='https://achievements.ai/timeline/td-gammon-program-gerald-tesauro/'>photo source: achievements.ai</a>"
+      },
+
+      "start_date": {
+        "year": "1992"
+      },
+
+      "text": {
+        "headline": "Gerald Tesauro",
+        "text": "He created the \"TD-Gammon\", which is a program that uses temporal difference algorithm in learning to play backgammon to a high level. This program was a milestone since it is an introduction to reinforcement learning where the machine could predict based on rewards per each interaction."
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://ai-speakers-agency.com/wp-content/uploads/2023/06/Ian-Goodfellow.jpg",
+        "caption": "",
+        "credit": "<a href='https://ai-speakers-agency.com/speaker/ian-goodfellow'>photo source: ai speakers agency</a>"
+      },
+
+      "start_date": {
+        "year": "2014"
+      },
+
+      "text": {
+        "headline": "Ian Goodfellow",
+        "text": "He introduced the machine learning concept of \"Generative Adversarial Network\". This machine learning framework then made a breakthrough on creating a deepfake whether it may be a picture, audio, or video. "
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2024/09/GettyImages-2153474303-e1727373782574.jpg?w=1440&q=75",
+        "caption": "",
+        "credit": "<a href='https://fortune.com/2024/09/27/sam-altman-openai-equity-stake/'>photo source: fortune.com</a>"
+      },
+
+      "start_date": {
+        "year": "2022"
+      },
+
+      "text": {
+        "headline": "Sam Altman",
+        "text": "He introduced an early demo of the \"ChatGPT\" chatbot which made a big hit with the community, gaining over 1 million users after days of its release. It is a modern machine learning program that uses \"Reinforcement Learning from Human Feedback(RLHF)\" to fine-tune or improve its responses to match the exptations of its user."
+      }
+    },
+
+    {
+
+      "start_date": {
+        "year": "2025"
+      },
+
+      "text": {
+        "headline": "References",
+        "text": "The Turing Test (Stanford Encyclopedia of Philosophy). (2021, October 4). https://plato.stanford.edu/entries/turing-test/ <br><br> Karjian, R. (2024, June 13). History and evolution of machine learning: A timeline. WhatIs. https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline <br><br> Agar, J. (2020). What is science for? The Lighthill report on artificial intelligence reinterpreted. The British Journal for the History of Science, 53(3), 289–310. https://doi.org/10.1017/s0007087420000230 <br><br> Terrence J. Sejnowski. (n.d.). The Brain Prize. https://brainprize.org/winners/computational-and-theoretical-neuroscience-2024/terrence-j-sejnowski <br><br> The history of artificial intelligence, machine learning and deep learning. (n.d.). https://www.algotive.ai/blog/the-history-of-artificial-intelligence-machine-learning-and-deep-learning <br><br> Khurana, S. (2020, July 9). TD-Gammon algorithm. Medium. https://medium.com/clique-org/td-gammon-algorithm-78a600b039bb <br><br> A brief history of Deepfakes. (2025, July 31). Reality Defender — Enterprise-Grade Deepfake Detection. https://www.realitydefender.com/insights/history-of-deepfakes<br><br> Introducing ChatGPT. (Novermber 30, 2022). OpenAI. https://openai.com/index/chatgpt/?utm_source=chatgpt.com<br>"
+      }
+    }
+  ]
+}
